@@ -1,1 +1,1 @@
-# Solar_energy_forecasting
+Solar energy forecasting: Use ML algorithms to predict solar energy generation based on historical solar data, weather conditions, and other relevant factors. This can help in optimizing solar energy utilization and grid integration.
